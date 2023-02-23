@@ -1,0 +1,15 @@
+bin\Debug\Semana 2 - LPVI - EjerciciosPropuestos.exe
+bin\Debug\Semana 2 - LPVI - EjerciciosPropuestos.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Semana_2___LPVI___EjerciciosPropuestos.Form1.resources
+obj\Debug\Semana_2___LPVI___EjerciciosPropuestos.Properties.Resources.resources
+obj\Debug\Semana 2 - LPVI - EjerciciosPropuestos.csproj.GenerateResource.Cache
+obj\Debug\Semana 2 - LPVI - EjerciciosPropuestos.exe
+obj\Debug\Semana 2 - LPVI - EjerciciosPropuestos.pdb
+obj\Debug\Semana_2___LPVI___EjerciciosPropuestos.Form2.resources
+obj\Debug\Semana_2___LPVI___EjerciciosPropuestos.Proforma.resources
+obj\Debug\Semana_2___LPVI___EjerciciosPropuestos.Form3.resources
+obj\Debug\Semana_2___LPVI___EjerciciosPropuestos.Form4.resources
+obj\Debug\Semana_2___LPVI___EjerciciosPropuestos.Form6.resources
+obj\Debug\Semana_2___LPVI___EjerciciosPropuestos.Form5.resources
+obj\Debug\Semana_2___LPVI___EjerciciosPropuestos.Form7.resources
